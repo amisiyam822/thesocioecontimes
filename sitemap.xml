@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-10-06</news:publication_date>
+      <news:title>Home</news:title>
+    </news:news>
+  </url>
+
+  <!-- World Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/world.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>World News</news:title>
+    </news:news>
+  </url>
+
+  <!-- Business Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/business.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>Business News</news:title>
+    </news:news>
+  </url>
+
+  <!-- Technology Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/technology.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>Technology News</news:title>
+    </news:news>
+  </url>
+
+  <!-- Science Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/science.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>Science News</news:title>
+    </news:news>
+  </url>
+
+  <!-- Health Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/health.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>Health News</news:title>
+    </news:news>
+  </url>
+
+  <!-- Current Affairs Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/09/current-affairs.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-09-01</news:publication_date>
+      <news:title>Current Affairs</news:title>
+    </news:news>
+  </url>
+
+  <!-- Entertainment Section -->
+  <url>
+    <loc>https://www.thesocioecontimes.com/2024/08/entertainment.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>The SocioEcon Times</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2024-08-01</news:publication_date>
+      <news:title>Entertainment News</news:title>
+    </news:news>
+  </url>
+
+</urlset>
